@@ -8,7 +8,7 @@ The Note Taker app allows users to write new notes with a title and body, save t
 ## Usage
 Users that visit the note-taking app are able to click into the notes page from the homepage, enter a title, body, and save their note. Saved notes are able to be retrieved from the left-hand menu, edited, or deleted. 
 
-Give it a try! 
+Give it a try! [https://afternoon-ridge-14396.herokuapp.com/notes]
 Or see the repository: [https://github.com/miamreid/note-taker]
 
 ## License
